@@ -1,4 +1,4 @@
-# WARNING - This will download the first result, which may not always be the book you are looking for.
+# WARNING - This will download the first result which may not always be the book you are looking for.
 ### This script will add a link to a Goodreads book page that automatically searches for and downloads the book on Anna's Archive.
 
 # Install the Script
