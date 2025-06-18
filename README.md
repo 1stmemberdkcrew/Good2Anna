@@ -15,7 +15,7 @@ Choose your browser below to install the Tampermonkey extension:
 - [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [Safari (via Mac App Store)](https://apps.apple.com/app/tampermonkey/id1482490089)
 
-## Install the Script 
+## Install the Script (Again)
 
 Once Tampermonkey is installed, click the link below to install the script:  
 [Install via Raw Link](https://raw.githubusercontent.com/1stmemberdkcrew/Good2Anna/main/goodreads-annas-archive.user.js)
